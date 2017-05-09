@@ -1,0 +1,7 @@
+Day 4 M+: hypothesis testing [dimitra & deb]
+    - in Normal distrib.
+    - in regression.
+    - check for independence.
+
+Day 4 A-: classification intro [deb]
+
