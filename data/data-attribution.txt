@@ -1,0 +1,4 @@
+- 'BMI_female.csv' and 'BMI_males.csv' are based on the Body Mass Index indicators from http://www.gapminder.org/data/ under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). A column listing the respective continent for each country was added.
+
+- 'germany-cities.hdf' is based on the respective file on https://www.maxmind.com/en/free-world-cities-database under the OPEN DATA LICENSE for MaxMind WorldCities and Postal Code Databases (http://download.maxmind.com/download/geoip/database/LICENSE_WC.txt)
+
